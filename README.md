@@ -10,6 +10,7 @@ people really want from a social network.
 ## License
 
 Copyright 2011-2014, E14N https://e14n.com/
+
 Copyright 2015, Alex Jordan https://strugee.net/
 
 Licensed under the Apache License, Version 2.0 (the "License");
