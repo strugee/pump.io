@@ -5,11 +5,12 @@ Version 0.3.0
 This is pump.io. It's a stream server that does most of what people
 really want from a social network.
 
-[![Build Status](https://secure.travis-ci.org/e14n/pump.io.png)](http://travis-ci.org/e14n/pump.io)
+[![Build Status](https://secure.travis-ci.org/strugee/pump.io.png)](http://travis-ci.org/strugee/pump.io)
 
 ## License
 
 Copyright 2011-2014, E14N https://e14n.com/
+Copyright 2015, Alex Jordan https://strugee.net/
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -256,9 +257,7 @@ name first before making connections to other sites.
 
 If you find bugs, you can report them here:
 
-https://github.com/e14n/pump.io/issues
-
-You can also email me at evan@e14n.com.
+https://github.com/strugee/pump.io/issues
 
 ## Colophon
 
