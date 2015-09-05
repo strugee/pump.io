@@ -2,8 +2,8 @@
 
 Version 0.3.0
 
-This is pump.io. It's a stream server that does most of what people
-really want from a social network.
+This is a fork of pump.io. It's a stream server that does most of what
+people really want from a social network.
 
 [![Build Status](https://secure.travis-ci.org/strugee/pump.io.png)](http://travis-ci.org/strugee/pump.io)
 
@@ -64,7 +64,7 @@ you're upgrading, you need to install it.
 The easiest way is to install the software globally using npm, like
 so:
 
-    npm install -g pump.io
+    npm install -g @strugee/pump.io
 
 That should set up all the files and dependencies for you.
 
@@ -73,7 +73,7 @@ That should set up all the files and dependencies for you.
 If you want to set up the software in its own directory, you can clone
 the git repository, so:
 
-    git clone https://github.com/e14n/pump.io.git
+    git clone https://github.com/strugee/pump.io.git
 
 You can then install the dependencies using `npm`:
 
@@ -252,6 +252,18 @@ experimenting with new software, and I'm trying to make the software
 more robust in the face of this kind of change without sacrificing
 security, but for now it's a good idea to decide on your "real" domain
 name first before making connections to other sites.
+
+## Roadmap
+
+As stated at the top of this document, this is a fork of Pump.io. It
+will focus on, in order of priority:
+
+1. Getting dependencies up-to-date
+2. Node.js 0.12 support
+3. Merging existing pull requests
+4. Improving the web interface
+
+And of course general bugfixing as well.
 
 ## Bugs
 
