@@ -2,8 +2,13 @@
 
 Version 0.3.0
 
-This is a fork of pump.io. It's a stream server that does most of what
-people really want from a social network.
+~~This is a fork of pump.io. It's a stream server that does most of what
+people really want from a social network.~~
+
+**OBSOLETE:** as of the community discussion in #pump.io on Freenode,
+on 9/22/15 (see [cwebber's summary](https://identi.ca/cwebber/note/1YADzufsQ_29LCJWTA-K_g)),
+this repo is obsolete. Use [`e14n/pump.io`](https://github.com/e14n/pump.io)
+instead.
 
 [![Build Status](https://secure.travis-ci.org/strugee/pump.io.png)](http://travis-ci.org/strugee/pump.io)
 
